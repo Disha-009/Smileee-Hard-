@@ -1,0 +1,48 @@
+body{
+  background-color: rgb(234, 255, 97);
+}
+
+#h3{
+    background-color: rgb(245, 180, 82);
+    border-radius: 6px;
+    width: 90%;
+    font-family: Monotype Corsiva;
+    color:navy;
+    box-shadow: 5px 5px 5px grey;
+    
+}
+.note{
+    color:rgb(255, 0, 0);
+    font-size: 20px;
+}
+.footer{
+    text-align: center;
+    color:rgb(57, 0, 148);
+    background-color: cornsilk;
+    bottom: 0;
+    position:fixed;
+    width: 100%;
+    line-height: 3;
+    border-width:1px;
+    border-style:solid;
+    box-shadow: 5px 5px 20px rgb(251, 16, 16);
+}
+
+canvas{
+    
+    border-radius: 20px;
+    border-top-right-radius:100px ;
+    border-bottom-right-radius:100px ;
+    box-shadow: 5px 5px 5px grey;
+    border: 10px solid aliceblue;
+    margin-top:28px;
+}
+
+
+video{
+    border-radius: 100px;
+    box-shadow: 5px 5px 5px grey;
+    border: 10px solid pink;
+    margin-top:28px;
+}
+
